@@ -38,3 +38,5 @@ class HHVacancy(JSONVacancy):
 
     def delete_vacancy(self):
         pass
+
+print("все успешно прошло , ураа")
