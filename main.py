@@ -22,5 +22,6 @@ def user_interaction():
     result_of_top = top_vacancy(top_n, result_fil_words)
     return result_of_top
 
+
 print("Все что было найдено по запросу.")
 print(user_interaction())

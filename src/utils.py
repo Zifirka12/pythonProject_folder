@@ -15,4 +15,5 @@ def filter_vacancy(my_list, words_list):
                 fin_list.append(index)
     return fin_list
 
+
 print("все успешно прошло , ураа")

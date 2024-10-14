@@ -65,4 +65,5 @@ class Vacancy:
                 res_salary.append(i)
         return res_salary
 
+
 print("все успешно прошло , ураа")

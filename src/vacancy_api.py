@@ -25,4 +25,5 @@ class HH(Parser):
             self.vacancies.extend(vacancies)
             self.params['page'] += 1
 
+
 print("все успешно прошло , ураа")
