@@ -14,3 +14,6 @@ def filter_vacancy(my_list, words_list):
             elif i in index["description"] or i in index["name"]:
                 fin_list.append(index)
     return fin_list
+
+
+print("все успешно прошло , ураа")

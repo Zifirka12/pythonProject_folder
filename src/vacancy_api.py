@@ -24,3 +24,6 @@ class HH(Parser):
             vacancies = response.json()['items']
             self.vacancies.extend(vacancies)
             self.params['page'] += 1
+
+
+print("все успешно прошло , ураа")

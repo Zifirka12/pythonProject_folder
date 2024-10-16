@@ -64,3 +64,6 @@ class Vacancy:
             if other <= i["salary"]["from"]:
                 res_salary.append(i)
         return res_salary
+
+
+print("все успешно прошло , ураа")

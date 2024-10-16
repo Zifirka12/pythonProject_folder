@@ -23,4 +23,5 @@ def user_interaction():
     return result_of_top
 
 
+print("Все что было найдено по запросу.")
 print(user_interaction())
